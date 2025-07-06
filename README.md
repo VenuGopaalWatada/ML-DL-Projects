@@ -1,1 +1,1 @@
-Learning Machine Learning and Deep Learning
+Learn Machine Learning and Deep Learning Models
